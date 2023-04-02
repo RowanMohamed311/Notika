@@ -12,6 +12,7 @@ A simple notes app. You can add your notes , star, archive them and even set the
 - Set private notes
 - Archive notes
 - Smooth UI
+- Search for notes
 - choose your own password
 
 ## To-do
