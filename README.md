@@ -1,19 +1,32 @@
 # Notika
-
-![notika_app_icon](https://user-images.githubusercontent.com/74663172/209157575-4b1573fe-6137-4f55-8ec9-167ceedf138f.png)
-
-
-A simple notes app. You can add your notes , star, archive them and even set them as private with your own password.
+## Description
+A simple notes app. You can add your notes , star, archive them and even set them as private with your own password. A totaly offline app that  stores notes using Local database with the help of SQFLITE plugin.
 
 ## Features
-- Supports Android
-- Star notes
-- List view for notes
-- Set private notes
-- Archive notes
-- Smooth UI
-- Search for notes
-- choose your own password
+- Supports Android.
+- Star notes.
+- List view for notes.
+- Set private notes.
+- Archive notes.
+- Smooth UI.
+- Search for notes.
+- choose your own password to keep your notes secure.
+
+## App Review
+
+<img src="https://user-images.githubusercontent.com/129562097/235378345-1fe38b68-45d2-46dc-bde9-fc8d9c39a9f7.gif" width="250">
+
+
+## Plugins used:
+
+- lottie
+- google_fonts
+- sqflite
+- intl
+- shared_preferences
+- flutter_launcher_icons
+- cached_network_image
+
 
 ## To-do
 - [ ] IOS support
